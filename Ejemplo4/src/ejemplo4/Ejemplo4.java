@@ -15,7 +15,23 @@ public class Ejemplo4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola mundo"); 
+        System.out.println("Hola mundo");
+        int a=5;
+        int b=10;
+        int resultado = a+b;
+        
+        System.out.println("la suma de a y b es:"+resultado);
+        
+        
+ {
+            
+        }
+ {
+                
+            }
+        
+       
+        
     }
     
 }
