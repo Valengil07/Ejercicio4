@@ -24,7 +24,12 @@ public class Ejemplo4 {
 
         int resultado2 = a / b;
 
-        System.out.println("la resta de a y b es:" + resultado2);
+        System.out.println("la division de a y b es:" + resultado2);
+        
+        int resultado3 = a - b;
+
+        System.out.println("la resta de a y b es:" + resultado3);
+        
         
         
         
