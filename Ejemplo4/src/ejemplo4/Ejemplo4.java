@@ -31,6 +31,11 @@ public class Ejemplo4 {
         System.out.println("la resta de a y b es:" + resultado3);
         
         
+        int resultado4 = a * b;
+
+        System.out.println("la multiplicacion de a y b es:" + resultado4);
+        
+        
         
         
     }
